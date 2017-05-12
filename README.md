@@ -1,3 +1,0 @@
-"# akademia" 
-
-blabla bleble blu
