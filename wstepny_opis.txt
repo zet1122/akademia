@@ -1,7 +1,0 @@
-G³ownie za³o¿enie: program pobieraj¹cy kursy walut.
- 
-- aplikacja napisana w WPF
-- realizacja zapytania do webserwisu
-- pobranie i parsowanie danych (aktualne kursy ró¿nych walut, prawdopodobnie tak¿e historyczne); u¿ycie odpowiednich kolekcji 
-- sortowanie, filtrowanie danych (zapytania LINQ)
-- zapis do pliku
