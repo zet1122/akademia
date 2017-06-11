@@ -4,4 +4,5 @@ Głownie założenie: program pobierający kursy walut.
 - realizacja zapytania do webserwisu
 - pobranie i parsowanie danych (aktualne kursy różnych walut, prawdopodobnie także historyczne); użycie odpowiednich kolekcji 
 - sortowanie, filtrowanie danych (zapytania LINQ)
+- reprezentacja graficzna danych (wykresy)
 - zapis do pliku
